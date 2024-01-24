@@ -31,9 +31,13 @@ If you just want to attempt to claim points, run `Check Points - Yes` with `Work
 **Settings in files:**
 
 `bal_checker_targets.json` - the minimum value to consider a balance insufficient in the network (you can leave it as default).
+
 `invites.txt` - invitation codes, randomly selected.
+
 `private.txt` - private keys.
+
 `proxy.txt` - proxies, selected line by line.
+
 `tokens_data.json` - lists of tokens that will participate in swaps.
 
 ---
@@ -63,8 +67,12 @@ If you just want to attempt to claim points, run `Check Points - Yes` with `Work
  **Настройка в файлах**
 
  `bal_checker_targets.json` - меньше какого значения считать что не хватает баланса в сети (можно оставить по умлочанию) .
+
  `invites.txt` - инвайт коды, выбираются рандомно.
- `private.txt` - приватники
+
+ `private.txt` - приватники.
+
  `proxy.txt` - прокси, выбираюся построчно.
+
  `tokens_data.json` - списки с токенами которые будут участвовать в свапах.
  
